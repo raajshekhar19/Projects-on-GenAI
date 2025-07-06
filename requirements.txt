@@ -20,5 +20,10 @@ langchain_chroma
 duckdb
 pandas
 mysql-connector-python
-
+youtube_transcript_api
 SQLAlchemy
+unstructured
+pytube
+numexpr
+validators
+huggingface_hub
